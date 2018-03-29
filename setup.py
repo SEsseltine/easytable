@@ -6,8 +6,7 @@ setup(
     description = "An easy to use text table creator.",
     author = "Shawn Esseltine",
     author_email = "shawn@esseltinemarketing.com",
-    url = "http://chardet.feedparser.org/",
-    download_url = "http://chardet.feedparser.org/download/python3-chardet-1.0.1.tgz",
+    url = "",
     keywords = ["table", "text", "formating", "format"],
     classifiers = [
         "Programming Language :: Python",
@@ -21,8 +20,8 @@ setup(
         "Topic :: Text Processing :: Linguistic",
         ],
     long_description = """\
-Universal character encoding detector
--------------------------------------
+An easy to use text table creator
+----------------------------------
 
 Detects
  - ASCII, UTF-8, UTF-16 (2 variants), UTF-32 (4 variants)
@@ -37,6 +36,6 @@ Detects
  - ISO-8859-8, windows-1255 (Visual and Logical Hebrew)
  - TIS-620 (Thai)
 
-This version requires Python 3 or later; a Python 2 version is available separately.
+This version requires Python 3 or later.
 """
 )
