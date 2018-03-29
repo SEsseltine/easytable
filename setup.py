@@ -6,7 +6,7 @@ setup(
     description = "An easy to use text table creator.",
     author = "Shawn Esseltine",
     author_email = "shawn@esseltinemarketing.com",
-    url = "",
+    url = "https://github.com/SEsseltine/easytable",
     keywords = ["table", "text", "formating", "format"],
     classifiers = [
         "Programming Language :: Python",
