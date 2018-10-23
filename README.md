@@ -8,10 +8,10 @@ Coming soon.
 
 **2. Manual Download:**
 
-Download the `easytable.py` file from this git repository.  Place the downloaded file in the same directory as the file you are working with.  Continue with [getting started](#Getting-Started:)
+Download the `easytable.py` file from this git repository.  Place the downloaded file in the same directory as the file you are working with.  Continue with [getting started.](#getting-started)
 
 ### Usage
-##### Getting Started: #####
+#### Getting Started: ####
 Remember to import the library!
 ```python
 # Remember to import the library!
