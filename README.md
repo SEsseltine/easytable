@@ -2,11 +2,12 @@
 
 ### Installation
 There are two options for installing EasyTable:
-**1. Command Line:**
+
+#### 1. Command Line: ####
 
 Coming soon.
 
-**2. Manual Download:**
+#### 2. Manual Download: ####
 
 Download the `easytable.py` file from this git repository.  Place the downloaded file in the same directory as the file you are working with.  Continue with [getting started.](#getting-started)
 
